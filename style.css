@@ -1,0 +1,121 @@
+  * {
+            margin: 0;
+            padding: 0;
+        }
+
+        .text-center {
+            text-align: center;
+        }
+
+        header {
+            background-color: black;
+            color: whitesmoke;
+            border: 2px solidred;
+        }
+
+        nav {
+            display: flex;
+        }
+
+        .logo {
+            display: flex;
+            padding: 0 25px;
+        }
+
+        nav ul {
+            height: 12vh;
+            display: flex;
+            justify-content: flex-start;
+            align-items: center;
+        }
+
+        nav ul li {
+            list-style: none;
+            padding: 0 23px;
+        }
+
+        nav ul li a {
+            text-decoration: none;
+        }
+
+        nav ul li a:hover {
+            text-decoration: none;
+            color: aquamarine;
+            font-weight: bold;
+        }
+
+        .search {
+            display: flex;
+            align-items: center;
+        }
+
+        .search input {
+            width: 30vw;
+            height: 20px;
+            border-radius: 4px;
+            margin: 0 56px 12px 0px;
+            padding: 0 12px;
+        }
+
+        .btn {
+            margin: -13px -41px;
+            padding: 2px;
+            color: aqua;
+            background-color: rgb(111, 107, 109);
+            border: 2px solid white;
+            border-radius: 7px;
+            cursor: pointer;
+        }
+
+        .slider {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 12px 26px;
+            overflow: hidden;
+            width: 75vw;
+        }
+
+        .container {
+            min-height: calc(100vh - 12vh - 100px);
+        }
+
+        .card {
+            max-width: 91vw;
+            margin: 37px auto;
+            overflow: hidden;
+        }
+
+        .my-2 {
+            margin: 26px 0;
+        }
+
+        .my-1 {
+            margin: 6px 0;
+        }
+
+
+        .card-item {
+            margin: 33px;
+            display: inline-flex;
+            justify-content: center;
+            flex-direction: column;
+            width: 10vw;
+
+        }
+
+        .text-center {
+            text-align: center;
+        }
+
+        footer {
+            height: 100px;
+            background-color: black;
+            color: white;
+            width: 100%;
+            font-family: 'Times New Roman', Times, serif;
+            font-weight: bold;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }

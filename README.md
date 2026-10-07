@@ -33,4 +33,9 @@ User input → application logic → processing → output.
 
 **Sumit Kumar**
 
+
+### 📬 Connect With Me
+- GitHub: [skchaudhary2005](https://github.com/skchaudhary2005)
+- LinkedIn: [Sumit Kumar](https://www.linkedin.com/in/sumit-chaudhary-41b306327/)
+
 ⭐ If you like this project, consider starring the repository.
